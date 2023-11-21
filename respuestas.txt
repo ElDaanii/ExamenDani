@@ -8,3 +8,4 @@
 7. grep -uc "Gonzalez" Alumnos.txt
 8. sed 's/Vicente/Pepe/g' Alumnos.txt
 9. No se 
+10. grep "j"* Alumnos.txt
