@@ -2,4 +2,5 @@
 2. cd examen
 3. touch si.txt
    grep "SI" Alumnos.txt > /examen/si.txt
-4. 
+4. mkdir si
+5. mv /examen/si.txt si
