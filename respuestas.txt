@@ -9,3 +9,4 @@
 8. sed 's/Vicente/Pepe/g' Alumnos.txt
 9. No se 
 10. grep "j"* Alumnos.txt
+11. awk $1 | sort -n du.txt
